@@ -22,4 +22,4 @@ A simple web application to manage students using **Python, Flask, and SQLite**.
 
 ---
 
-## Project Structure
+
